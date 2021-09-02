@@ -1,16 +1,12 @@
-# contador_de_pessoas
+# Contador de pessoas
 
-A new Flutter project.
+Este é um projeto introdutório do curso de criação de apps em Flutter do instrutor Daniel Ciolfi
 
-## Getting Started
+## Informações adicionais
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este projeto é um simples verificador de lotação de um estabelecimento, neste caso um restaurante.
+Durante o desenvolvimento do app foi possivel colocar em prática conhecimento sobre os widgets:<br><br>
+° Stateless e Statefull <br>
+° Text <br>
+° Stack <br>
+° FlatButton e muito mais...<br>
